@@ -1,13 +1,14 @@
-## <p align="center">📖 About me</p>
+## <p align="center">👋 About me</p>
 
-<p align="center">I am a 21 years old french student at <a href="https://www.insa-rouen.fr">INSA Rouen Normandie</a> engineering school where I study computer science.
-<br/>
-I am looking for a 3 months internship for summer 2022. Feel free to contact me if you're interested !
-<br/>
-I am also passionate about music and rock climbing 🧗
+<p align="center">
+	I am a 21 years old french student at <a href="https://www.insa-rouen.fr">INSA Rouen Normandie</a> engineering school where I study computer science.
+	<br/>
+	I am looking for a 3 months internship for summer 2022. Feel free to contact me if you're interested !
+	<br/>
+	I am also passionate about music and rock climbing 🧗
 </p>
 
-## <p align="center">Skills</p>
+## <p align="center">📚 Skills</p>
 
 <table align="center">
 	<thead>
@@ -54,7 +55,19 @@ I am also passionate about music and rock climbing 🧗
 ## <p align="center">🏫 School projects</p>
 
 ### <p>Tennis match outcome prediction - 2021</p>
+<p align="center">
+	<img src="https://i.ibb.co/MsJcPYw/TennisML.png" alt="TennisML" border="0"/>
+</p>
+
+### <p>TextR - 2020</p>
 ### <p>Image vector quantization - 2021</p>
+<p align="center">
+	<img src="https://i.ibb.co/GFVGdFp/IVQ.gif" alt="IVQ" border="0"/>
+</p>
+### <p>HOG - 2021</p>
+<p align="center">
+	<img src="https://i.ibb.co/JvdGxrw/HOG.png" alt="HOG" border="0"/>
+</p>
 ### <p>Huffman Compressor - 2020</p>
 
 ## <p align="center">🏠 Personal projects</p>
