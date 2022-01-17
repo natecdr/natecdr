@@ -58,3 +58,7 @@ I am also passionate about music and rock climbing 🧗
 ### <p>Huffman Compressor - 2020</p>
 
 ## <p align="center">🏠 Personal projects</p>
+
+### <p>MIDI to guitar tab convertor - 2021</p>
+### <p>ASCII Art - 2020</p>
+### <p>Life Simulation - Work In Progress</p>
