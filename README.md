@@ -33,14 +33,14 @@
 		<tr>
 			<td align="center">HTML</td>
       <td align="center">CSS</td>
-      <td align="center">FL Studio</td>
-      <td align="center">Excel</td>
+      <td align="center">Jupyter</td>
+      <td align="center">Spyder</td>
 		</tr>
 		<tr>
 			<td align="center">JavaScript</td>
       <td align="center">SQL</td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center">Excel</td>
+      <td align="center">FL Studio</td>
 		</tr>
 		<tr>
 			<td align="center">Git</td>
@@ -64,7 +64,9 @@ The project was proposed by a colleague of mine and myself to our school after w
 	<img src="https://i.ibb.co/MsJcPYw/TennisML.png" alt="TennisML" height="300" border="0"/>
 </p>
 
-### <p>TextR - 2020</p>
+### <p>TextR - 2021</p>
+TextR is a simple text-only social network. It has all the principal features of a social network : Profiles, Posts, Likes, Favorites, ...
+
 ### <p>Image vector quantization - 2021</p>
 Image Vector Quantization is Vector Quantization applied to an image. It works by representing the image with few of its most representative blocks (or vectors).
 It is widely used in lossy data compression.
