@@ -55,10 +55,11 @@
 ## <p align="center">🏫 School projects</p>
 
 ### <p>Tennis match outcome prediction - 2021</p>
-A Machine Learning project whose goal was to predict the outcome of a Rafael Nadal match using only Nadal's grunts.
+A Machine Learning project which consists in predicting the outcome of a Rafael Nadal match using only Nadal's grunts.
 The first part of the project consisted in the extraction of these grunts out of the raw match audio, and the second one in the prediction of the outcome using those extracted clips.
 <br/>
-The project was proposed by a colleague of mine and myself to our school after we got the idea from <a href="https://www.sciencedirect.com/science/article/abs/pii/S0003347217301975">this study</a>
+The project was proposed by a colleague of mine and myself to our school after we got the idea from <a href="https://www.sciencedirect.com/science/article/abs/pii/S0003347217301975">this study</a>.
+
 <p align="center">
 	<img src="https://i.ibb.co/MsJcPYw/TennisML.png" alt="TennisML" height="300" border="0"/>
 </p>
@@ -73,6 +74,9 @@ It is widely used in lossy data compression.
 </p>
 
 ### <p>HOG - 2021</p>
+HOG (Histogram of Oriented Gradients) is a feature descriptor used in Computer Vision for object detection and image recognition.
+The project was about implementing the technique.
+
 <p align="center">
 	<img src="https://i.ibb.co/JvdGxrw/HOG.png" alt="HOG" height="300" border="0"/>
 </p>
