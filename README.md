@@ -64,14 +64,26 @@
 <p align="center">
 	<img src="https://i.ibb.co/GFVGdFp/IVQ.gif" alt="IVQ" border="0"/>
 </p>
+
 ### <p>HOG - 2021</p>
 <p align="center">
 	<img src="https://i.ibb.co/JvdGxrw/HOG.png" alt="HOG" border="0"/>
 </p>
+
 ### <p>Huffman Compressor - 2020</p>
 
 ## <p align="center">🏠 Personal projects</p>
 
 ### <p>MIDI to guitar tab convertor - 2021</p>
+
+<p align="center">
+	<img src="https://i.ibb.co/NWqcSY6/guitabs.png" alt="guitabs" border="0">
+</p>
+	
 ### <p>ASCII Art - 2020</p>
+
+<p align="center">
+	<img src="https://i.ibb.co/1ZP1WRf/ascii-art.png" alt="ascii-art" border="0">
+</p>
+
 ### <p>Life Simulation - Work In Progress</p>
