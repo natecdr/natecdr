@@ -89,7 +89,7 @@ Huffman compression is a widely used lossless data compression method.
 
 ## <p align="center">🏠 Personal projects</p>
 
-### <p>MIDI to guitar tab convertor - 2021</p>
+### <a href="https://github.com/natecdr/midi_guitar_tabs">MIDI to guitar tab convertor - 2021</a>
 
 A tool that converts a MIDI file to a guitar tab. It mainly uses graph theory to find the optimal finger positions.
 <br/>
@@ -99,7 +99,7 @@ The project is to be continued with a new machine learning approach.
 	<img src="https://i.ibb.co/NWqcSY6/guitabs.png" alt="guitabs" height="300" border="0">
 </p>
 	
-### <p>ASCII Art - 2020</p>
+### <a href="https://github.com/natecdr/ASCII-art">ASCII Art - 2020</a>
 A tool that converts image input into ASCII art (A representation of the image using ASCII characters only).
 <br/>
 As of now, it can convert still images, videos and the computer webcam video stream.
