@@ -64,15 +64,20 @@ The project was proposed by a colleague of mine and myself to our school after w
 	<img src="https://i.ibb.co/MsJcPYw/TennisML.png" alt="TennisML" height="300" border="0"/>
 </p>
 
-### <p>TextR - 2021</p>
-TextR is a simple text-only social network. It has all the principal features of a social network : Profiles, Posts, Likes, Favorites, ...
+### <a href="https://gitlab.insa-rouen.fr/ldaniele/tw2">TextR - 2021</a>
+TextR is a simple text-only social network. It has all the main features you can expect to find in a social network : Profiles, Posts, Likes, Favorites, ...
+Made in a team of 4.
 
-### <p>Image vector quantization - 2021</p>
+<p align="center">
+	<img src="https://i.ibb.co/Ws7rRc3/Text-Logo-2.jpg" alt="TextR" height="300" border="0">
+</p>
+
+### <a href="https://github.com/natecdr/image_vector_quantization">Image vector quantization - 2021</a>
 Image Vector Quantization is Vector Quantization applied to an image. It works by representing the image with few of its most representative blocks (or vectors).
 It is widely used in lossy data compression.
 
 <p align="center">
-	<img src="https://i.ibb.co/GFVGdFp/IVQ.gif" alt="IVQ" height="300" border="0"/>
+	<img src="https://i.ibb.co/n71cbn0/IVQ.png" alt="IVQ" width="500" border="0">
 </p>
 
 ### <p>HOG - 2021</p>
