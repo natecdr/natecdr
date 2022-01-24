@@ -113,6 +113,6 @@ As of now, it can convert still images, videos and the computer webcam video str
 	<img src="https://i.ibb.co/1ZP1WRf/ascii-art.png" alt="ascii-art" height="300" border="0">
 </p>
 
-### <p>Life Simulation - Work In Progress</p>
+### <a href="https://github.com/natecdr/Life-Sim">Life Simulation</a> - Work In Progress
 A life simulation using the NEAT (NeuroEvolution of Augmenting Topologies) Genetic algorithm. 
 Creatures evolve through generations using random mutations that alter the architecture of their brain. Each creature has its own brain that is essentially a neural network, their inputs being the creature's "senses" and their outputs being the actions the creature can take.
