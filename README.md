@@ -3,7 +3,7 @@
 <p align="center">
 	I am a 21 years old french student at <a href="https://www.insa-rouen.fr">INSA Rouen Normandie</a> engineering school where I study computer science.
 	<br/>
-	I am looking for a 3 months internship for summer 2022. Feel free to contact me if you're interested !
+	I am looking for a 6 months internship starting from february 2023. Feel free to contact me if you're interested !
 	<br/>
 	I am also passionate about music and rock climbing 🧗
 </p>
