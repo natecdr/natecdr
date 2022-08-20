@@ -113,6 +113,13 @@ As of now, it can convert still images, videos and the computer webcam video str
 	<img src="https://i.ibb.co/1ZP1WRf/ascii-art.png" alt="ascii-art" height="300" border="0">
 </p>
 
-### <a href="https://github.com/natecdr/Life-Sim">Life Simulation</a> - Work In Progress
-A life simulation using the NEAT (NeuroEvolution of Augmenting Topologies) Genetic algorithm. 
-Creatures evolve through generations using random mutations that alter the architecture of their brain. Each creature has its own brain that is essentially a neural network, their inputs being the creature's "senses" and their outputs being the actions the creature can take.
+### <a href="https://github.com/natecdr/periodico-bot">Twitter Bot - 2022</a>
+A Twitter bot that regularly tweets french words that can be written using chemical elements in alphabetical order.
+<br/>
+It should be running for a few months until it runs out of words.
+
+<p align="center">
+	<img src="https://i.postimg.cc/NjqP7sFC/res.png" alt="periodico-bot" width="600" border="0">
+</p>
+
+
