@@ -21,32 +21,32 @@
 		<tr> 
 			<td align="center">C</td>
 			<td align="center">Python</td>
-      <td align="center">VS Code</td>
-      <td align="center">Visual Studio</td>
+		        <td align="center">VS Code</td>
+		        <td align="center">Visual Studio</td>
 		</tr>
 		<tr>
 			<td align="center">Java</td>
-      <td align="center">C#</td>
-      <td align="center">Unity</td>
-      <td align="center">SolidWorks</td>
+		        <td align="center">C#</td>
+		        <td align="center">Unity</td>
+		        <td align="center">SolidWorks</td>
 		</tr>
 		<tr>
 			<td align="center">HTML</td>
-      <td align="center">CSS</td>
-      <td align="center">Jupyter</td>
-      <td align="center">Spyder</td>
+		        <td align="center">CSS</td>
+		        <td align="center">Jupyter</td>
+		        <td align="center">Spyder</td>
 		</tr>
 		<tr>
 			<td align="center">JavaScript</td>
-      <td align="center">SQL</td>
-      <td align="center">Excel</td>
-      <td align="center">FL Studio</td>
+		        <td align="center">SQL</td>
+		        <td align="center">Excel</td>
+		        <td align="center">FL Studio</td>
 		</tr>
 		<tr>
-			<td align="center">Git</td>
-      <td align="center">Pascal</td>
-      <td align="center"></td>
-      <td align="center"></td>
+			<td align="center">Pascal</td>
+		        <td align="center"></td>
+		        <td align="center">Git</td>
+		        <td align="center"></td>
 		</tr>
 	</tbody>
 </table>
