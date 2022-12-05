@@ -72,33 +72,14 @@ Made in a team of 4.
 	<img src="https://i.ibb.co/Ws7rRc3/Text-Logo-2.jpg" alt="TextR" height="300" border="0">
 </p>
 
-### <a href="https://github.com/natecdr/image_vector_quantization">Image vector quantization - 2021</a>
-Image Vector Quantization is Vector Quantization applied to an image. It works by representing the image with few of its most representative blocks (or vectors).
-It is widely used in lossy data compression.
-
-<p align="center">
-	<img src="https://i.ibb.co/n71cbn0/IVQ.png" alt="IVQ" width="500" border="0">
-</p>
-
-### <p>HOG - 2021</p>
-HOG (Histogram of Oriented Gradients) is a feature descriptor used in Computer Vision for object detection and image recognition.
-The project was about implementing the technique.
-
-<p align="center">
-	<img src="https://i.ibb.co/JvdGxrw/HOG.png" alt="HOG" height="300" border="0"/>
-</p>
-
-### <p>Huffman Compressor - 2020</p>
-This project was actually implemented 2 times, the first time in C and the second time in Python.
-Huffman compression is a widely used lossless data compression method.
 
 ## <p align="center">🏠 Personal projects</p>
 
-### <a href="https://github.com/natecdr/midi_guitar_tabs">MIDI to guitar tab convertor - 2021</a>
+### <a href="https://github.com/natecdr/midi_guitar_tabs">MIDI to guitar tab convertor - 2021 - Still work in progress...</a>
 
-A tool that converts a MIDI file to a guitar tab. It mainly uses graph theory to find the optimal finger positions.
+A tool that converts a MIDI file to a guitar tablature. It's the biggest project of mine.
 <br/>
-The project is to be continued with a new machine learning approach.
+It relies on various techniques including Hidden Markov Models and graph theory.
 
 <p align="center">
 	<img src="https://i.ibb.co/NWqcSY6/guitabs.png" alt="guitabs" height="300" border="0">
@@ -114,7 +95,7 @@ As of now, it can convert still images, videos and the computer webcam video str
 </p>
 
 ### <a href="https://github.com/natecdr/periodico-bot">Twitter Bot - 2022</a>
-A Twitter bot that regularly tweets french words that can be written using chemical elements in alphabetical order.
+A Twitter bot that regularly tweets french words that can be written using chemical elements.
 <br/>
 It should be running for a few months until it runs out of words.
 
