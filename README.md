@@ -102,11 +102,3 @@ It should be running for a few months until it runs out of words.
 <p align="center">
 	<img src="https://i.postimg.cc/NjqP7sFC/res.png" alt="periodico-bot" width="600" border="0">
 </p>
-
-## <p align="center">🏢 Professional projects</p>
-
-### 3D Point cloud segmentation - 2022
-A segmentation tool used to carry out denoising of point clouds extracted from LiDAR Scanners.
-</br>
-The project was a part of a 3 month internship in the company Art Graphique & Patrimoine.
-
