@@ -75,7 +75,7 @@ Made in a team of 4.
 
 ## <p align="center">🏠 Personal projects</p>
 
-### <a href="https://github.com/natecdr/midi_guitar_tabs">MIDI to guitar tab convertor - 2021 - Still work in progress...</a>
+### <a href="https://github.com/natecdr/midi_guitar_tabs">Tuttut : MIDI to tabs convertor - 2023</a>
 
 A tool that converts a MIDI file to a guitar tablature. It's the biggest project of mine.
 <br/>
