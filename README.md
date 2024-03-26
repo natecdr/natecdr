@@ -3,8 +3,6 @@
 <p align="center">
 	I am a 23 years old and passionate about computer science and machine learning. I recently graduated from  <a href="https://www.insa-rouen.fr">INSA Rouen Normandie</a>.
 	<br/>
-	I am looking for a full-time data scientist job in Paris or remotely. Feel free to contact me if you're interested !
-	<br/>
 	I am also passionate about music and rock climbing 🧗
 </p>
 
