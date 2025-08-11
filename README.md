@@ -1,9 +1,8 @@
 ## <p align="center">👋 About me</p>
 
 <p align="center">
-	I am a 23 years old and passionate about computer science and machine learning. I recently graduated from  <a href="https://www.insa-rouen.fr">INSA Rouen Normandie</a>.
+	AI guy, music guy, sport </a>.
 	<br/>
-	I am also passionate about music and rock climbing 🧗
 </p>
 
 ## <p align="center">📚 Skills</p>
