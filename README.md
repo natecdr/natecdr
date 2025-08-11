@@ -1,7 +1,7 @@
 ## <p align="center">👋 About me</p>
 
 <p align="center">
-	AI guy, music guy, sport </a>.
+	AI guy, music guy, sports guy</a>.
 	<br/>
 </p>
 
